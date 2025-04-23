@@ -10,5 +10,6 @@ A inteligência artificial é algo surpreendente podendo traduzir documentos e t
 <br/>
 ![print5](https://github.com/user-attachments/assets/101a1863-cc5f-4e2e-94b3-43a01a00ae3e)
 <br/>
+<br/>
 ##Imagem da IA fazendo a análise de sentimento
 ![print2](https://github.com/user-attachments/assets/ddb36b45-cd79-479e-8b3b-c0e5249c49bd)
